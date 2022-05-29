@@ -14,3 +14,6 @@ git add readme.md
 git commit -m " added readme.md"
 
 
+git add .
+
+git checkout -b newbranch
